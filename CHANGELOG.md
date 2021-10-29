@@ -4,6 +4,10 @@ All notable changes to the "backman" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.1.2 (2021/10/30)
+
+- 更新履歴の更新日を訂正
+
 ## 1.1.1 (2021/10/30)
 
 - ソースのコメントを削除
